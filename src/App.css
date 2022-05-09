@@ -53,6 +53,9 @@ a{
 .amcon {
   width: 50%;
 }
+#navtoggle {
+  color:#E83E2A;
+}
 
 #whatido{
   font-weight: bold;
@@ -60,6 +63,7 @@ a{
   font-size: 5rem;
 }
 #navbartitle {
+  padding-bottom: 1rem;
   padding-left: 2rem;
   font-family: 'Source Sans Pro', sans-serif;
   color: #E83E2A;
